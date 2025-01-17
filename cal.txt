@@ -11,6 +11,9 @@ public class main{
         public static int subfun(int a ,int b){
         return a-b;}
 
+//multi
+        public static int smulfun(int a ,int b){
+        return a*b;}
 
 
 
