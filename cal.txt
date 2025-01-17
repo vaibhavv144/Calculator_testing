@@ -1,6 +1,8 @@
 public class main{
 
-
+//addition
+	public static int addfun(int a ,int b){
+	return a+b;}
 
 
 
